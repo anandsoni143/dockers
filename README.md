@@ -1,6 +1,6 @@
-# A Static Site using Docker and javascript and css and Nginx
+# A Site using Docker and javascript and css and Nginx
 
-This repo contains code for building a simple static website served using an Nginx container inside Docker. The code for the site is contained in the files total with js and css, and the Nginx config is in `default.conf`. The Dockerfile contains commands to build a Docker Image.
+This repo contains code for building a simple  website served using an Nginx container inside Docker. The code for the site is contained in the files total with js and css, and the Nginx config is in `default.conf`. The Dockerfile contains commands to build a Docker Image.
 
 To build a Docker image from the Dockerfile, run the following command from inside this directory
 
